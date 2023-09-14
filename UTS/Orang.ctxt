@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Orang
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Orang\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=L
+comment2.target=void\ moveDown(int)
+comment3.params=L
+comment3.target=void\ moveUp(int)
+comment4.params=L
+comment4.target=void\ moveLeft(int)
+comment5.params=L
+comment5.target=void\ moveRight(int)
+comment6.params=
+comment6.target=void\ cekKeyboard()
+comment7.params=X\ Y
+comment7.target=boolean\ cekJalan1(int,\ int)
+comment8.params=
+comment8.target=boolean\ cekRintangan()
+numComments=9
